@@ -1,0 +1,2 @@
+update table_usersetting set value = '吉林市东北亚"菜篮子"农贸市场' where id=19;
+#SQL

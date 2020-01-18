@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>showDialog</class>
+ <widget class="QDialog" name="showDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>512</width>
+    <height>290</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QTabWidget" name="tabWidget">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="autoFillBackground">
+      <bool>false</bool>
+     </property>
+     <property name="currentIndex">
+      <number>2</number>
+     </property>
+     <property name="usesScrollButtons">
+      <bool>false</bool>
+     </property>
+     <widget class="QWidget" name="tab_login">
+      <attribute name="title">
+       <string>登录界面</string>
+      </attribute>
+     </widget>
+     <widget class="QWidget" name="tab_sale">
+      <attribute name="title">
+       <string>销售界面</string>
+      </attribute>
+     </widget>
+     <widget class="QWidget" name="tab_pay">
+      <attribute name="title">
+       <string>支付界面</string>
+      </attribute>
+     </widget>
+     <widget class="QWidget" name="tab_menu">
+      <attribute name="title">
+       <string>设置界面</string>
+      </attribute>
+     </widget>
+     <widget class="QWidget" name="tab_cal">
+      <attribute name="title">
+       <string>一键标定</string>
+      </attribute>
+     </widget>
+     <widget class="QWidget" name="tab_report">
+      <attribute name="title">
+       <string>报表管理</string>
+      </attribute>
+     </widget>
+     <widget class="QWidget" name="tab_goodskey">
+      <attribute name="title">
+       <string>商品按键</string>
+      </attribute>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="0" margin="0"/>
+ <resources/>
+ <connections/>
+</ui>

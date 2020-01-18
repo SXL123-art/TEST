@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/wlanx.png</file>
+        <file>image/wlant.png</file>
+        <file>image/report.png</file>
+        <file>image/payMode.png</file>
+        <file>image/pay.png</file>
+        <file>image/On-line-wai.png</file>
+        <file>image/On-line-nei.png</file>
+        <file>image/Off-line-wai.png</file>
+        <file>image/Off-line-nei.png</file>
+        <file>image/Msgdialog.png</file>
+        <file>image/login.png</file>
+        <file>image/lanx.png</file>
+        <file>image/lant.png</file>
+        <file>image/dialog.png</file>
+        <file>image/dc_full.png</file>
+        <file>image/dc4.png</file>
+        <file>image/dc3.png</file>
+        <file>image/dc2.png</file>
+        <file>image/dc1.png</file>
+        <file>image/dc0.png</file>
+        <file>image/ac_low.png</file>
+        <file>image/ac_high.png</file>
+        <file>image/430_pay.png</file>
+        <file>image/43_zero_on.png</file>
+        <file>image/43_st_on.png</file>
+        <file>image/43_net_on.png</file>
+        <file>image/sale.png</file>
+        <file>image/log.png</file>
+    </qresource>
+</RCC>
